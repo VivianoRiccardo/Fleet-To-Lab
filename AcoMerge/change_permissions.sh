@@ -1,0 +1,1 @@
+chmod a+rwx ./*.so
