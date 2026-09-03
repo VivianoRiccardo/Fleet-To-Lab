@@ -129,7 +129,7 @@ sh build_python_library.sh
  - https://wiki.python.org/moin/WindowsCompilers (distutils.cfg)
  - https://datatofish.com/locate-python-windows/ (Python folder search script)
  - https://stackoverflow.com/questions/34135280/valueerror-unknown-ms-compiler-version-1900 (vcruntime140-dll lacking dll)
- - https://bugs.python.org/file40608/patch.diff (function fix, changing from 1900 to 1916 was my guess and it worked, it enables the use of the .dll previously installed)
+ - https://bugs.python.org/file40608/patch.diff (function fix)
  - https://github.com/cython/cython/issues/3405 (For the ifdef stuff, cython bug)
 
 # Install .whl files
