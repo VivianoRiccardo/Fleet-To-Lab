@@ -58,7 +58,7 @@ ctypedef stdint.uint64_t uint64_t
 
 - Install Mingw with MYSYS2: https://www.msys2.org/ follow the steps and also the passages to install mingw-w64 
 
--  now navigate to Pyllab with MYSYS2 and create the .lib library:
+-  now navigate to Pyezspark with MYSYS2 and create the .lib library:
 
 ```
 sh create_library.sh
